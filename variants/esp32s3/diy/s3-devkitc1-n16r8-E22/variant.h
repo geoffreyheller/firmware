@@ -3,6 +3,9 @@
 // Buttons
 #define BUTTON_PIN 0 // Use the BOOT button as the user button
 
+#define UART_TX 43
+#define UART_RX 44
+
 // I2C: Default pins in the Arduino framework are
 // gpio.9 SCL
 // gpio.8 SDA
